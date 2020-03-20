@@ -1,0 +1,24 @@
+PASS : Web application was open correctly 
+PASS : Scrypt found the login button 
+PASS : Scrypt found email text field 
+PASS : Scrypt entered the email address 
+PASS : Scrypt choosen the gender 
+PASS : Scrypt entered the first name of the user 
+PASS : Scrypt entered the last name of the user 
+PASS : Scrypt entered the email address of the user 
+PASS : Scrypt entered the user password 
+PASS : Scrypt choosen the day of birth of the user 
+PASS : Scrypt choosen the month of birth of the user 
+PASS : Scrypt choosen the year of birth of the user 
+PASS : Scrypt choosen to receive newsletter from application 
+PASS : Scrypt choosen to receive optin from application 
+PASS : Scrypt entered user company name 
+PASS : Scrypt entered user address 
+PASS : Scrypt entered user city 
+PASS : Scrypt entered user country 
+PASS : Scrypt entered user state 
+PASS : Scrypt entered user postcode 
+PASS : Scrypt entered user phone number 
+PASS : Scrypt entered user alias 
+PASS : Scrypt have submitted the account 
+PASS : Scrypt created user account and enter to it 
