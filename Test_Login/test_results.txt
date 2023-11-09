@@ -1,8 +1,0 @@
-PASS : Web application was open correctly 
-PASS : Login button was foundPASS : Scrypt etered the login page 
-PASS : Scrypt found email text field 
-PASS : Scrypt entered the email address 
-PASS : Scrypt found password text field 
-PASS : Scrypt filled the password field 
-PASS : Scrypt have submited login data 
-PASS : Scrypt entered user account 

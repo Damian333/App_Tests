@@ -1,5 +1,0 @@
-PASS : Web application was open correctly 
-PASS : Scrypt found the login button 
-PASS : Scrypt found email text field 
-PASS : Scrypt entered the email address 
-FAIL : Scrypt could not fill all regestration fields 
